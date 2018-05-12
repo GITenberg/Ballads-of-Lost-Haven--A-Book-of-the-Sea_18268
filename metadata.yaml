@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4343
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Carman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18268#Ballads-of-Lost-Haven--A-Book-of-the-Sea
 gutenberg_issued: '2006-04-27'
 gutenberg_type: Text
 identifiers:
